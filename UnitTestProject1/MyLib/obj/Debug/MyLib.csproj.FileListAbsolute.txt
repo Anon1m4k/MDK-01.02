@@ -4,3 +4,9 @@ D:\Бойков\P30\UnitTestProject1\MyLib\obj\Debug\MyLib.csproj.AssemblyRefere
 D:\Бойков\P30\UnitTestProject1\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
 D:\Бойков\P30\UnitTestProject1\MyLib\obj\Debug\MyLib.dll
 D:\Бойков\P30\UnitTestProject1\MyLib\obj\Debug\MyLib.pdb
+C:\Users\st53\Source\Repos\MDK-01.02\UnitTestProject1\MyLib\bin\Debug\MyLib.dll
+C:\Users\st53\Source\Repos\MDK-01.02\UnitTestProject1\MyLib\bin\Debug\MyLib.pdb
+C:\Users\st53\Source\Repos\MDK-01.02\UnitTestProject1\MyLib\obj\Debug\MyLib.csproj.AssemblyReference.cache
+C:\Users\st53\Source\Repos\MDK-01.02\UnitTestProject1\MyLib\obj\Debug\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\st53\Source\Repos\MDK-01.02\UnitTestProject1\MyLib\obj\Debug\MyLib.dll
+C:\Users\st53\Source\Repos\MDK-01.02\UnitTestProject1\MyLib\obj\Debug\MyLib.pdb
