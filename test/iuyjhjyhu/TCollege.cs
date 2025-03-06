@@ -1,23 +1,16 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using MyLib;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MyLib;
 
-namespace UnitTestProject1
+namespace iuyjhjyhu
 {
     [TestClass]
-    public class TCollege
+    class TCollege
     {
-
-       // public struct College
-       // {
-         //   public string name;
-          //  public List<string> students;
-            //public List<string> expected;
-        //}
         public Dictionary<string, List<string>> expectedInfo = new Dictionary<string, List<string>>()
         {
             {"П-10", new List<string>() { "Баранов Даниил" , "Курчаков Артем", "Колобанов Захар"} },
@@ -29,7 +22,7 @@ namespace UnitTestProject1
         public void TGetStudentsByGroupX()
         {
             College college = new College();
-            foreach (string group in expectedInfo.Keys) 
+            foreach (string group in expectedInfo.Keys)
             {
                 college.AddGroup(group, expectedInfo[group]);
 
@@ -38,7 +31,7 @@ namespace UnitTestProject1
                 List<string> expected = new List<string>(expectedInfo[group]);
 
                 CollectionAssert.AreEqual(expected, actual);
-            }    
+            }
         }
     }
 }
