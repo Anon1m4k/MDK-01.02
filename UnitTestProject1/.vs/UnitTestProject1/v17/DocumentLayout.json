@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\tlistoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\unittestproject1\\tcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\tcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4EAE1965-1888-4CAB-8EC7-023C1AD8F4FC}|MyLib\\MyLib.csproj|D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\mylib\\listoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EAE1965-1888-4CAB-8EC7-023C1AD8F4FC}|MyLib\\MyLib.csproj|solutionrelative:mylib\\listoperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4EAE1965-1888-4CAB-8EC7-023C1AD8F4FC}|MyLib\\MyLib.csproj|D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\mylib\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4EAE1965-1888-4CAB-8EC7-023C1AD8F4FC}|MyLib\\MyLib.csproj|solutionrelative:mylib\\college.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\unittestproject1\\tcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B62E92FA-FE0D-4111-A1F1-492F0D87A1A9}|UnitTestProject1\\UnitTestProject1.csproj|solutionrelative:unittestproject1\\tcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8E3C882F-8ED4-4145-AB4B-69E5547E575D}|UnitTestProject2\\UnitTestProject2.csproj|d:\\\u043F-30\\\u0431\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\unittestproject1\\unittestproject2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +30,11 @@
       "DocumentGroups": [
         {
           "DockedHeight": 465,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\UnitTestProject2\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "UnitTestProject2\\UnitTest1.cs",
-              "ToolTip": "D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\UnitTestProject2\\UnitTest1.cs",
-              "RelativeToolTip": "UnitTestProject2\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-06T09:11:12.271Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "College.cs",
               "DocumentMoniker": "D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\MyLib\\College.cs",
               "RelativeDocumentMoniker": "MyLib\\College.cs",
@@ -60,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ListOperation.cs",
               "DocumentMoniker": "D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\MyLib\\ListOperation.cs",
               "RelativeDocumentMoniker": "MyLib\\ListOperation.cs",
@@ -79,22 +66,35 @@
               "RelativeDocumentMoniker": "UnitTestProject1\\TListOperation.cs",
               "ToolTip": "D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\UnitTestProject1\\TListOperation.cs",
               "RelativeToolTip": "UnitTestProject1\\TListOperation.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAA1wBsAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T09:08:20.919Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "TCollege.cs",
               "DocumentMoniker": "D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\UnitTestProject1\\TCollege.cs",
               "RelativeDocumentMoniker": "UnitTestProject1\\TCollege.cs",
               "ToolTip": "D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\UnitTestProject1\\TCollege.cs",
               "RelativeToolTip": "UnitTestProject1\\TCollege.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-06T08:57:11.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\UnitTestProject2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UnitTestProject2\\UnitTest1.cs",
+              "ToolTip": "D:\\\u041F-30\\\u0411\u043E\u0439\u043A\u043E\u0432 \u0442\u0435\u0441\u0442\\UnitTestProject1\\UnitTestProject2\\UnitTest1.cs",
+              "RelativeToolTip": "UnitTestProject2\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:11:12.271Z",
               "EditorCaption": ""
             }
           ]
